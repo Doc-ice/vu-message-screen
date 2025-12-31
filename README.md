@@ -18,3 +18,6 @@
 <ul>
 <li>Load content from external source</li>
 <li>Load content from mod config (locally)</li>
+<hr>
+<p><strong>Issues</strong><br>
+If you have any issues or troubles getting this to work, don’t hesitate to reach out at <a href="https://discord.com/channels/125257766649593856/721729349790728264">VU Discord</a>  or create a ticket in the repository<br>
