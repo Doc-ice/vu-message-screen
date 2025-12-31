@@ -1,0 +1,8 @@
+{
+	"Name": "VUmessage",
+	"Authors": ["Doc"],
+	"Description": "VUmessage display messages on screen + emoji's",
+	"Version": "1",
+	"HasWebUI": true,
+	"HasVeniceEXT": true
+}

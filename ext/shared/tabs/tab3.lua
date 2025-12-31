@@ -1,0 +1,44 @@
+return {
+    title = 'vu progression',
+    icon = '🥇🥈🏅',
+    content = [[<h1>vu-progression</h1>
+	
+<p>💬 Chat Commands</p>
+
+<b>These should be considered temporary until a proper UI can be built to view these stats.</b>
+<b>!level or !score: Privately prints to the player all Class & General levels, score, and score </b>
+<b>required for next unlock.</b>
+<b>!kills [Weapon Name]: Prints number of kills for that weapon, kills required for next unlock,</b>
+<b>and what that unlock will be.</b>
+<b>!vs [Vehicle Type]: Does the same, but for Vehicle Score.</b>
+
+<p>🎮 Usage</p>
+
+<b>Join a server with a progression mod tag</b>
+<b>Play as usual — progression is tracked automatically</b>
+<b>Unlocks and ranks are saved between rounds or if you leave the server</b></p>
+
+<p>🛠️ Development</p>
+
+Want to contribute? Here’s how:
+
+    <b>Fork the repo</b>
+    <b>Create a feature branch</b>
+    <b>Submit a pull request</b>
+
+<b>The mod is written in VEXT (VeniceEXT) scripting, primarily in LUA.</b></p>
+<p>🚧 Roadmap</p>
+
+<b> Global persistent tracking across multiple servers</b>
+<b>Add Ribbons and challenges</b>
+<b>Add dog tag unlocks</b>
+<b>UI stats page</b>
+<b>UI notifications for rank up / unlocks (like vanilla BF3)</b>
+<b>Bugfixes</b>
+<b>Possible non-BF3 features, such as Prestige</b>
+
+<p>🐞 Known Issues</p>
+
+<b>Unlock notifications are currently minimal</b>
+<b>Some awards may not track properly</b></p>]]
+}
