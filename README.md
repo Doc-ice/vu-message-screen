@@ -5,6 +5,7 @@
 <li>Multiple Tabs</li>
 <li>Easy config</li></br>
 <strong>Screenshots</strong></p>
+<img width="3802" height="2025" alt="image" src="https://github.com/user-attachments/assets/8a07e35d-3f30-4cbb-b5a1-fbe0663b71ef" />
 
 <p><strong>Setup - Add to server</strong></p>
 <p>Download the latest release and add the <code>vu-message-screen</code> folder to your server directory structure. Also add <code>vu-welcome-screen</code> to your <code>modlist.txt</code> .</p>
