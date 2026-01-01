@@ -5,40 +5,39 @@ return {
 	
 <p>💬 Chat Commands</p>
 
-<b>These should be considered temporary until a proper UI can be built to view these stats.</b>
-<b>!level or !score: Privately prints to the player all Class & General levels, score, and score </b>
-<b>required for next unlock.</b>
-<b>!kills [Weapon Name]: Prints number of kills for that weapon, kills required for next unlock,</b>
-<b>and what that unlock will be.</b>
-<b>!vs [Vehicle Type]: Does the same, but for Vehicle Score.</b>
+<li>These should be considered temporary until a proper UI can be built to view these stats.</li>
+<li>!level or !score: Privately prints to the player all Class & General levels, score, and score</li>
+<li>required for next unlock.</b>
+<li>!kills [Weapon Name]: Prints number of kills for that weapon, kills required for next unlock,</li>
+<li>and what that unlock will be.</li>
+<li>!vs [Vehicle Type]: Does the same, but for Vehicle Score.</li>
 
 <p>🎮 Usage</p>
 
-<b>Join a server with a progression mod tag</b>
-<b>Play as usual — progression is tracked automatically</b>
-<b>Unlocks and ranks are saved between rounds or if you leave the server</b></p>
+<li>Join a server with a progression mod tag</li>
+<li>Play as usual — progression is tracked automatically</li>
+<li>Unlocks and ranks are saved between rounds or if you leave the server</li>
 
 <p>🛠️ Development</p>
 
-Want to contribute? Here’s how:
-
-    <b>Fork the repo</b>
-    <b>Create a feature branch</b>
-    <b>Submit a pull request</b>
-
-<b>The mod is written in VEXT (VeniceEXT) scripting, primarily in LUA.</b></p>
+<li>Want to contribute?</li>
+<li>Here’s how:</li>
+<li>Fork the repo</li>
+<li>Create a feature branch</li>
+<li>Submit a pull request</li>
+<li>The mod is written in VEXT (VeniceEXT) scripting, primarily in LUA.</li>
 <p>🚧 Roadmap</p>
 
-<b> Global persistent tracking across multiple servers</b>
-<b>Add Ribbons and challenges</b>
-<b>Add dog tag unlocks</b>
-<b>UI stats page</b>
-<b>UI notifications for rank up / unlocks (like vanilla BF3)</b>
-<b>Bugfixes</b>
-<b>Possible non-BF3 features, such as Prestige</b>
+<li>Global persistent tracking across multiple servers</li>
+<li>Add Ribbons and challenges</li>
+<li>Add dog tag unlocks</li>
+<li>UI stats page</li>
+<li>UI notifications for rank up / unlocks (like vanilla BF3)</li>
+<li>Bugfixes</li>
+<li>Possible non-BF3 features, such as Prestige</li>
 
 <p>🐞 Known Issues</p>
 
-<b>Unlock notifications are currently minimal</b>
-<b>Some awards may not track properly</b></p>]]
+<li>Unlock notifications are currently minimal</li>
+<li>Some awards may not track properly</li>]]
 }
