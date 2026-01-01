@@ -19,7 +19,7 @@
 <p><strong>Config</strong></p>
 <p>You’ll find the config for the mod under <code>shared/config.lua</code>. You have 2 options to modify the actual content of the message screen</p>
 <ul>
-<li>Load content from external source</li>
+<li>Load content from external source(Work in Progress)</li>
 <li>Load content from mod config (locally)</li>
 <hr>
 <p><strong>Issues</strong><br>
