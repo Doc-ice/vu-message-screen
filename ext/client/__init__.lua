@@ -68,22 +68,22 @@ Maps = {
 	},
 
 	XP1_001 = {
-		MapName = "XP1_001",
+		MapName = "XP01",
 		DisplayName = "Strike at Karkand",
 	},
 
 	XP1_002 = {
-		MapName = "XP1_002",
+		MapName = "XP02",
 		DisplayName = "Gulf of Oman",
 	},
 
 	XP1_003 = {
-		MapName = "XP1_003",
+		MapName = "XP03",
 		DisplayName = "Sharqi Peninsula",
 	},
 
 	XP1_004 = {
-		MapName = "XP1_004",
+		MapName = "XP04",
 		DisplayName = "Wake Island",
 	},
 
@@ -178,7 +178,7 @@ ms=Maps[mapname].DisplayName
 line={
     title = 'Server Details',
     icon = '🎮',
-    content = '<li><p><b>Map </b>'..ms..'</p></li><img src="fb://UI/Art/Menu/LevelThumbs/'..mapname..'_thumb" height=150%; width=300%;><p><b>Game Mode </b>'..gm..'</p></li>'
+    content = '<li><p><b>Map </b>'..ms..'</p></li><img src="fb://UI/Art/Menu/LevelThumbs/'..Maps[mapname].MapName..'_thumb" height=150%; width=300%;><p><b>Game Mode </b>'..gm..'</p></li>'
 	}
 	table.insert(config.tabs, 1,line)
  local configJson = json.encode(config.tabs);
